@@ -15,7 +15,7 @@ For this assignment we needed to have a:
 
 • All links must work. ✔
 
-• Must use semantic html. 
+• Must use semantic html. ✔
 
 • Each page must have valid and correct HTML. (use a validation service) ✔
 
